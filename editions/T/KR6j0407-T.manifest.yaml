@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0407/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0407/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 曼殊室利菩薩呪藏中一字呪王經
+  identifiers:
+    krp: KR6j0407
+    cbeta: T20n1182
+    cbeta_old_id: T20n1182
+    authorityid: CA0002169
+    json_key: T1182
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1182.xml
+    old_id: T20n1182
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0407_000-T.yaml, hash: 'sha256:d06a9372c540bb458d2e85a511b5ed394e1c8cc41604fd64b4d2a706f7499602'}
+  - {seq: 1, filename: KR6j0407_001-T.yaml, hash: 'sha256:db13b946c96a68cad7d38e67b36128c4b5cc16ecf05d651c594b237e882a2243'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0407_000-T.markers.yaml, hash: 'sha256:d5a9d4eddc664ce1220fb266b5cbe0a7da220507e1f39b351549d79a78c0fee2'}
+  - {seq: 1, role: markers, filename: assets/KR6j0407_001-T.markers.yaml, hash: 'sha256:6cd80dedbb72ad7d3ca1a9ccfa18a318df783e9a65f4ef986990896c92675fe0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0407_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1256
+  label: '曼殊室利菩薩呪藏中一字呪
+
+    王經'
+  type: juan
+  level: 1
+hash: sha256:763455d0da68500442432df06b6ed558923f13a131c4bbff03255d9652671351

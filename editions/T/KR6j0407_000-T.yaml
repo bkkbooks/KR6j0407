@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0407/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 曼殊室利菩薩呪藏中一字呪王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1182.xml
+    old_id: T20n1182
+hash: sha256:d06a9372c540bb458d2e85a511b5ed394e1c8cc41604fd64b4d2a706f7499602
